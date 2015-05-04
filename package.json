@@ -1,0 +1,29 @@
+{
+  "name": "nodebeginner",
+  "version": "0.1.0",
+  "description": "Coding along with the NodeBeginner Book examples.",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:clintonjnelson/nodebeginner.git"
+  },
+  "keywords": [
+    "CodeFellows"
+  ],
+  "author": "clintonjnelson@live.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clintonjnelson/nodebeginner/issues"
+  },
+  "homepage": "https://github.com/clintonjnelson/nodebeginner"
+}
